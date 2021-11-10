@@ -1,1 +1,3 @@
 Procedimos a agragar la hoja de estilos y poner un par sencillos
+
+Definimos el blog ademas de ponerle titulo y algo de informacion en el texto
