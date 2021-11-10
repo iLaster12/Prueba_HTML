@@ -1,0 +1,1 @@
+En Esta version hicimos la base y el primer archivo de la pagina, aun sin css
