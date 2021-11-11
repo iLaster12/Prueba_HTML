@@ -1,4 +1,22 @@
 p{
     color: black;
     size: 120%;
+<<<<<<< HEAD
+=======
+}
+
+h2{
+    color: white;
+    font-size: 2.3em;
+	line-height: 1.3em;
+	margin: 15px 0;
+	text-align: center;
+	font-weight: 300;
+}
+
+#Cabecera{
+    margin: 2%;
+    padding: 0, 5em;
+    background-color: green;
+>>>>>>> header
 }
